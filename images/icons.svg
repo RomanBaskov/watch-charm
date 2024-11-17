@@ -17,5 +17,11 @@
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="5.714"
         d="M2.857 4.667h58.286M2.857 27.333h58.286" />
     </symbol>
+    <symbol id="icon-vectora" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="m2.4 2.4 27.2 27.2" />
+    </symbol>
+    <symbol id="icon-vectorb" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M29.6 2.4 2.4 29.6" />
+    </symbol>
   </defs>
 </svg>
