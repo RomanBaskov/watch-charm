@@ -209,6 +209,7 @@ align-items: center;
 flex-direction: column;
 gap: 24px;
 margin-top: 240px;
+margin-bottom: 260px;
 }
 
 .mobile-nav-link {
@@ -245,14 +246,6 @@ width: 8px;
 height: 8px;
 border-radius: 100%;
 background-color: #3350e9;
-}
-
-.mobile-menu-container {
-position: relative;
-align-items: center;
-display: flex;
-flex-direction: column;
-height: 100%;
 }
 
 .icon-link {
@@ -308,11 +301,13 @@ fill: #fbfbfb;
 .mobile-menu {
 max-width: 330px;
 background: url(../images/tabmenu.jpg);
+
 }
     
 .mobile-menu-list {
 gap: 32px;
 margin-top: 310px;
+margin-bottom: 350px;
 }
 
 .mobile-menu-close {
